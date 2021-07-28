@@ -40,10 +40,9 @@ I am **Fernanda**, Brazilian from Belo Horizonte, and currently enrolled in the 
 <br />
 <br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=fernandacajueiro&layout=compact&theme=dracula" alt="github-stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=fernandacajueiro&layout=compact&theme=dracula" alt="stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandacajueiro&layout=compact&theme=dracula" alt="top-langs" />
 
-<br />
 <br />
 
 ###### *made with love* 💜
