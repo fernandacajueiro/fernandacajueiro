@@ -44,6 +44,9 @@ I am **Fernanda**, Brazilian from Belo Horizonte, and currently enrolled in the 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandacajueiro&layout=compact&theme=midnight-purple&hide_border=true" alt="top-langs" />
 
 <br />
+<br />
+<br />
+<br />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=fernandacajueiro" alt="fernandacajueiro" />
