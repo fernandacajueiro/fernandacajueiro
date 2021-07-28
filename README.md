@@ -2,7 +2,7 @@
 
 I am **Fernanda**, Brazilian from Belo Horizonte, and currently enrolled in the Software Development course at Trybe. On my way to being a **full-stack web developer**! 👩‍💻
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width=300 />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width=250 />
 
 <br />
 
