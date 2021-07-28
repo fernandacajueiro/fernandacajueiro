@@ -45,8 +45,6 @@ I am **Fernanda**, Brazilian from Belo Horizonte, and currently enrolled in the 
 
 <br />
 <br />
-<br />
-<br />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=fernandacajueiro" alt="fernandacajueiro" />
