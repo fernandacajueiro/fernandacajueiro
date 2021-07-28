@@ -40,8 +40,8 @@ I am **Fernanda**, Brazilian from Belo Horizonte, and currently enrolled in the 
 <br />
 <br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=fernandacajueiro&layout=compact&theme=dracula" alt="stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandacajueiro&layout=compact&theme=dracula" alt="top-langs" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=fernandacajueiro&layout=compact&theme=midnight-purple&show_icons=true&hide_border=true&hide_rank=true&custom_title=GitHub Status" alt="stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandacajueiro&layout=compact&theme=midnight-purple&hide_border=true" alt="top-langs" />
 
 <br />
 
