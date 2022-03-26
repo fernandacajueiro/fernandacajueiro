@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am **Fernanda**, Brazilian from Belo Horizonte, and currently enrolled in the Software Development course at Trybe. On my way to being a **full-stack web developer**! 👩‍💻
+I am **Fernanda**, Brazilian living in Amsterdam, full-stack web developer, back-end development enthusiast. 👩‍💻
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width=250 />
 
