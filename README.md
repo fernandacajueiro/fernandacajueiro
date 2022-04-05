@@ -7,7 +7,7 @@ I am **Fernanda**, Brazilian living in Amsterdam, full-stack web developer, back
 <br />
 
 ## 🕵️‍♀️ Where to find me
-Visit my portfolio here: https://fernandacajueiro.github.io/
+Visit my portfolio here: fernandacajueiro.github.io/
 
 <br />
 
