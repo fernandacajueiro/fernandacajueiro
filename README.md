@@ -7,7 +7,7 @@ I am **Fernanda**, Brazilian living in Amsterdam, full-stack web developer, back
 <br />
 
 ## 🕵️‍♀️ Where to find me
-Visit my portfolio here: fernandacajueiro.github.io/
+Visit my portfolio <a href="https://fernandacajueiro.github.io/">**here**</a>!
 
 <br />
 
@@ -19,10 +19,9 @@ Visit my portfolio here: fernandacajueiro.github.io/
 
 ## 🤸 About me
 - 🖥️ **Front-end**: React, Redux, Context API, React Hooks (and continuously learning... 🆙);
-- 🔧 **Back-end**: MySQL, MongoDB, Node.js, Express (and continuously learning... 🆙); 
+- 🔧 **Back-end**: MySQL, MongoDB, Node.js, Express, REST API, Python (and continuously learning... 🆙); 
 - 🇳🇱 Amsterdam based;
 - 🐶 Dog lover;
-- 💚 Vegetarian;
 - 📫 Write me on fernandacmachado@hotmail.com
 
 <br />
