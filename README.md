@@ -43,12 +43,6 @@ Visit my portfolio <a href="https://fernandacajueiro.github.io/" target="_blank"
 <br />
 <br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=fernandacajueiro&layout=compact&theme=midnight-purple&show_icons=true&hide_border=true&hide_rank=true&custom_title=GitHub Status" alt="stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandacajueiro&layout=compact&theme=midnight-purple&hide_border=true" alt="top-langs" />
-
-<br />
-<br />
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=fernandacajueiro" alt="fernandacajueiro" />
 </p>
